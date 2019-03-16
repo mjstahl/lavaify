@@ -1,0 +1,25 @@
+{
+  "name": "lavaify",
+  "version": "0.1.0",
+  "description": "Browserify transform for Literate JavaScript",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjstahl/lavaify.git"
+  },
+  "keywords": [
+    "browserify",
+    "javascript",
+    "literate programming",
+    "markdown",
+    "transform"
+  ],
+  "author": "Mark Stahl <mjstahl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjstahl/lavaify/issues"
+  },
+  "homepage": "https://github.com/mjstahl/lavaify#readme"
+}
