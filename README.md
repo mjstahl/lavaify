@@ -17,3 +17,7 @@ $ npm install --save-dev lavascript
 ```console
 $ browserify -t lavaify foo.js.md > bundle.js
 ```
+
+## Related
+
+[LavaScript](https://npm.im/lavascript) - Literate Programming for JavaScript
