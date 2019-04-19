@@ -2,8 +2,9 @@
   "name": "lavaify",
   "version": "0.1.0",
   "description": "Browserify transform for Literate JavaScript",
-  "main": "index.js",
+  "main": "lavaify.js",
   "scripts": {
+    "lint": "standard --fix"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,14 @@
   "bugs": {
     "url": "https://github.com/mjstahl/lavaify/issues"
   },
-  "homepage": "https://github.com/mjstahl/lavaify#readme"
+  "homepage": "https://github.com/mjstahl/lavaify#readme",
+  "peerDependencies": {
+    "lavascript": "0.6.x"
+  },
+  "dependencies": {
+    "through2": "^3.0.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
 }
